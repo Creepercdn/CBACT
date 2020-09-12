@@ -5,4 +5,9 @@ CBACT is a light CLI tool to build and compile \*.pyx file.
 
 ## TODO List
 - [ ] CLI
-- [ ] More...
+- - [ ] Command
+- - [ ] Link Command to Function
+- [ ] Cython Compile
+- [ ] C Compile
+- [ ] pyd Compile
+- [ ] so Compile
